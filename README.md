@@ -17,18 +17,18 @@ TODO: Add dependencies and installation steps.
 
 ## Shortcuts
 
-<leader> = \
+"\" is the leader defined key.
 
 * Windows Splitting:
   - Vertical split: ctrl+w v
   - Horizonal split: ctrl+w h
   - Movement between windows: ctrl+w [hjkl]
-* Task List: <leader>td
-* Revision history: <leader>g
-* Pep 8 revision: <leader>8
-* Nerd tree: <leader>n
-* Go to definition: <leader>j
-* Rename definition and substitute everywhere: <leader>r
-* Search with ack: <leader>a
+* Task List: \td
+* Revision history: \g
+* Pep 8 revision: \8
+* Nerd tree: \n
+* Go to definition: \j
+* Rename definition and substitute everywhere: \r
+* Search with ack: \a
 
 
